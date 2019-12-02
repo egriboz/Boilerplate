@@ -1,0 +1,21 @@
+{
+  "name": "ntl-boilerplate",
+  "version": "1.0.0",
+  "description": "HTML Boilerplate",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NewTabLab",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
